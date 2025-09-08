@@ -1,2 +1,3 @@
 # Cpp-practice
-My journey of learning C++ language.
+
+📚 This repository contains my step-by-step learning and practice in C++ programming language.
